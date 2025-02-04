@@ -1,3 +1,3 @@
 # agri-website
-basic structure 
-company based project 
+basic structure. 
+Company based project 
